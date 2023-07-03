@@ -31,7 +31,7 @@ const App = () => {
                 </section>
               </div>
             </Route>
-            <Route path="./Memberships">
+            <Route path="/Memberships">
               <Memberships />
             </Route>
             <Route path="/Planner">
