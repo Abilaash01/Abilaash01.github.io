@@ -11,7 +11,7 @@ const Header = () => {
         </div>
         <ul className="nav-items">
           <li><a href="/">Home</a></li>
-          <li><a href="/Memberships">Memberships</a></li>
+          <li><a href="./Memberships">Memberships</a></li>
           <li><a href="/Planner">Workout Planner</a></li>
           <li><a href="/Finder">Find A Gym</a></li>
           <li><a href="/Contact">Contact Us</a></li>
