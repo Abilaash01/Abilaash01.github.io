@@ -37,9 +37,6 @@ const App = () => {
             <Route path="/Planner">
               <Planner />
             </Route>
-            <Route path="/Services">
-              <Services />
-            </Route>
             <Route path="/Contact">
               <Contact />
             </Route>
